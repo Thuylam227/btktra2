@@ -1,0 +1,31 @@
+Danh sách các khóa học:
+ID: 1
+Title: Laravel Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content.
+Image URL: laravel.png
+
+ID: 2
+Title: .NET Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content.
+Image URL: dot-net.png
+
+ID: 3
+Title: Spring Boot Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content.
+Image URL: spring-boot.png
+
+ID: 4
+Title: Angular Programming
+Description: This is a longer card with supporting text below as a natural lead-in to additional content.
+Image URL: angular.png
+
+ID: 5
+Title: React Programming
+Description: Learn how to build powerful user interfaces with React.
+Image URL: react.png
+
+ID: 6
+Title: Vue.js Programming
+Description: Master the basics of Vue.js, a popular JavaScript framework.
+Image URL: vuejs.png
+
